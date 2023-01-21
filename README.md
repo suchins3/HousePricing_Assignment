@@ -42,7 +42,7 @@ Overall below contributes significantly
 - pandas
 - matplotlib
 - seaborn
-- sklearn
+- sklearn [LinearRegression, Ridge , Lasso, GridSearchCV, mean_squared_error, r2_score etc]
 - statsmodels
 
 
