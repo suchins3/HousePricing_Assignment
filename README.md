@@ -22,7 +22,7 @@ The company is looking at prospective properties to buy to enter the market. You
 ## Conclusions
 
 - From the analysis Lasso Regression turned out to be better then ridge.
-- Conclusion 2 from the analysis The below 2 fields are the top predictors • Ground Living Area • Overall Quality , Lot area
+- Based on the analysis fields who can be tagged as predictors • Ground Living Area • Overall Quality , Lot area
 
 
 
