@@ -20,17 +20,7 @@ The company is looking at prospective properties to buy to enter the market. You
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
--	Booking is drastically increased in 2019
--	Weekends seems to have a greater number of bookings
--	Large number of bookings done in clear weather
--	Thursday, Friday, Saturday has more number of bookings
--	Large number of bookings is done at Clear weather situations
 
-
-Overall below contributes significantly
--	Temperature
--	Season
--	Year
 
 
 
